@@ -1,0 +1,19 @@
+.movieContainer {
+  width: 900px;
+  margin-left: auto;
+  margin-left: auto;
+  text-align: center;
+}
+.movieContainer-thumb {
+  width: 500px;
+  margin-left: 200px;
+}
+
+.movieContainer-thumb > img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  margin-left: auto;
+  margin-left: auto;
+}
